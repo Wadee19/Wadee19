@@ -16,6 +16,8 @@ I build systems that connect **models, data and physical engineering** — from 
 My background combines multidisciplinary R&D, systems integration and product realization with hands-on applied AI/ML work across recommendation systems, retrieval/RAG, evaluation, data pipelines, engineering intelligence and geometry/CAD.
 
 > **Engineering rule:** strong baselines first, leakage-safe evaluation, explicit constraints, and no claim beyond the evidence.
+>
+> **Reviewing for a role?** Start with **[RouteScout](https://github.com/Wadee19/RouteScout)** for engineering/AI decision-making, **[Fashion Recommendations](https://github.com/Wadee19/fashion-recommendations)** for ML systems and data pipelines, or **[Mesh → Parametric CAD](https://github.com/Wadee19/mesh-to-parametric-cad)** for the physical-engineering + ML bridge.
 
 ## What I bring
 
@@ -38,7 +40,7 @@ My background combines multidisciplinary R&D, systems integration and product re
 
 ### Currently building
 
-**Electronics Datasheet Engine** — an evidence-grounded engineering system for turning messy manufacturer documentation into verified component facts before generating KiCad symbols, footprints and machine-readable PCB constraints.
+**Private active build — Electronics Datasheet Engine** — an evidence-grounded engineering system for turning messy manufacturer documentation into verified component facts before generating KiCad symbols, footprints and machine-readable PCB constraints.
 
 The design is intentionally fail-closed around provenance, package/variant applicability, conflicting documents and independent artifact verification.
 
